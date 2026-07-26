@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Sunflower",
+    "water": "Every 2-3 days. Keep soil moist.",
+    "feed": "Full sun (6+ hours). Fertilizer every 2 weeks.",
+    "size": "Growth: 90 days. Season: Summer."
+  },
+  {
+    "name": "Tomato",
+    "water": "Daily watering. Do not wet leaves.",
+    "feed": "Full sun (8 hours). Needs calcium-rich food.",
+    "size": "Growth: 60-80 days. Season: Spring/Summer."
+  },
+  {
+    "name": "Fern",
+    "water": "Keep soil constantly damp. Loves humidity.",
+    "feed": "Partial shade. Liquid fertilizer monthly.",
+    "size": "Growth: Slow. Season: All year (Indoor)."
+  }
+]
